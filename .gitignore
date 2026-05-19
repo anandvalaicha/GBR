@@ -1,0 +1,11 @@
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+*.xcworkspace/
+.DS_Store
+.vscode/
+.idea/
+*.log
